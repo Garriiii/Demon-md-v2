@@ -1,7 +1,7 @@
 # ᎠᎬᎷᎾᏁ v2
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src="https://imgur.com/a/NaqSat2.jpeg"/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____ᎠᎬᎷᎾᏁ+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+MALVIN+KING;REALESE+DATE+10%2F7%2F2024." alt="Typing SVG" /></a>
 </p>
